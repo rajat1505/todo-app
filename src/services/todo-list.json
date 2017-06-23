@@ -1,0 +1,20 @@
+{
+  "visibilityFilter": "SHOW_ALL",
+  "todos": [
+    {
+      "id": 0,
+      "text": "Get up",
+      "completed": true
+    },
+    {
+      "id": 1,
+      "text": "Survive",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Get back to bed",
+      "completed": false
+    }
+  ]
+}

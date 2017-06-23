@@ -1,0 +1,7 @@
+.todo {
+  &__item {
+    &--completed {
+      text-decoration: line-through;
+    }
+  }
+}
